@@ -1,0 +1,5 @@
+Tasks
+1. Draw a labeled diagram of a desktop PC, clearly marking the motherboard, CPU, RAM, GPU, and both HDD and SSD storage components.
+2. Create a comparison table showing the main differences between HDD and SSD storage in terms of speed, durability, and typical use cases.
+3..Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
+4. Imagine you want to upgrade your PC to run the latest version of FIFA smoothly. List which hardware components you would consider upgrading and explain why for each.
