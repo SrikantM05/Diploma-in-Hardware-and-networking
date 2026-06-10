@@ -1,0 +1,5 @@
+Tasks
+1. Draw a labeled diagram of an ATX motherboard and mark at least 8 different slots and ports (such as RAM slots, PCIe slots, SATA ports, USB headers, CPU socket, power connector, etc.).
+2. Research and list 3 popular CPU socket types (for example: LGA1151, AM4, LGA1200) and name one compatible CPU model for each.
+3. Explain in your own words the primary functions of the CPU and the chipset on a motherboard, and describe how they work together when you open a music app like Spotify.
+4. Find a clear photo of a real motherboard (from the internet or your own device), and identify at least 5 different ports or slots by circling them and labeling each one.
