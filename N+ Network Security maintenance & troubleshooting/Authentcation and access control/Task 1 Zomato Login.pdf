@@ -1,0 +1,256 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 12 0 R
+/Names 14 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1191
+>>
+stream
+Gau0B;/b2I&:Vs/3:pWU]1"V(=gIY]V9.F7h6KLu.1?nI`RnE@;BtG9hQPh!P!%Du%(&8O_m4"5n[n8(]+]`M?Gq?!$K0MU7^iLk"Sj:(,YT>qK:DeuT*s*89N0$P$#[a?geIJPE,,XA,b1\KrlPV),%j$LNIX]n]5Tf*UML!?6mh.T`I!KG%.jmYS=1fJ="rOa24%>tC5%i?'?h?S`k]!F<ibdKjF9Pr"tof9+M>JY3e3T0d7Y#kQki`^@#b-H5^ZDp#sPDI=p=Ml&eaW3j<Z@O."saj_M)3jWt*)+\Z+WZA<dRsM),YiD;ZQ$j:G)#('a3ahSP^"TWhGm8]VXZb<OdAI](NaJS@tc-p=e)"9uMBntP%G3!0K:>0>Fko21ab6QI]Zs4%e@:CR6q+b-1<j=f@q\@,DjDX2fVMq9+7#g'R]odom(CBKMfW@[PBS8Bg4/RLh==56%a1hX8Pr;r?a%fq@:UY''4$A<P.@*-fSeWa2QJLj(:>iJhDNli@n[FuP%!L%$(Z"OlDbJ[pPDE.(j*K\/<,%s@V]MmRVs/U5?PAE:Ae*5q@:.Y_@@T5liRp-<h3$%TW+Vf'qeWO,2aD&K`E@tYH10@tm+P-s*&tD@[a%@NSN\<M+c[)';bbSV:CJbAhV*O.S1tAtqR['V%&^5S,#_pkXUu,,A7ghd#HqAJ,:E75AZ!,mTk.Q2@aF*"#=t.?b>WgAGhEuF%g;B*?C$&gMWbD(W.*621@qQAfC9oI:Md"a8DC-O^8F&[!NgSs_lV4`CW7;NWiirt_MqnHkb@-&W#qAN]?*Lk<C(JsBa[YY(iQO1;(ln'0VM*-lHRH-6@RPd4qo8LNBV\4pnefIC;!"=2=\1,mea\g0>6:GrG-S@]T\5(oHYNtH\2Z?^j?o[:Ck*cOke?RDq0$4c^=M'uU*X0qB;%6[/@BJa]E?at3St8],g1/6C"FbAdujo"@hgmYF=^*hbJmJbLaMAK[+^#6l'f2Z4*)Ue=7%./9iDaJn`lq<YVoONF4jL,LH!8*_5;\j;X#9[nh$3f"d#\UZXjh@d=;Fqfm"o0nR6lYr\7t>-F8r,gg.er:_lKJh.m--.qD@s_,Sg@.b?+qdi%=he*IHKW=^m4<miiY:pSle-]?2mD@-U2-i0k!r"D&"SKYscl2IA(W3n*5bWcq%6f76hjjc(+E:G$K$(g,~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+>>
+endobj
+13 0 obj
+<<
+/Type /EmbeddedFile
+/Length 2155
+>>
+stream
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zomato Admin Panel - Login</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  .card {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    width: 300px;
+    text-align: center;
+  }
+  .card h1 {
+    color: #e23744;
+    font-size: 22px;
+    margin-bottom: 4px;
+  }
+  .card p {
+    color: #777;
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 24px;
+  }
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  button {
+    width: 100%;
+    padding: 10px;
+    background: #e23744;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #c72e3a;
+  }
+  #result {
+    margin-top: 16px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .granted { color: #1a7f37; }
+  .denied { color: #d32f2f; }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <h1>Zomato Admin</h1>
+  <p>Restricted access panel</p>
+
+  <input type="text" id="username" placeholder="Username" autocomplete="off">
+  <input type="password" id="password" placeholder="Password">
+  <button onclick="checkLogin()">Log In</button>
+
+  <div id="result"></div>
+</div>
+
+<script>
+  // Hardcoded admin credentials (for demo purposes only)
+  const ADMIN_USERNAME = "admin";
+  const ADMIN_PASSWORD = "zomato123";
+
+  function checkLogin() {
+    const user = document.getElementById("username").value;
+    const pass = document.getElementById("password").value;
+    const result = document.getElementById("result");
+
+    if (user === ADMIN_USERNAME && pass === ADMIN_PASSWORD) {
+      result.textContent = "Access Granted";
+      result.className = "granted";
+    } else {
+      result.textContent = "Access Denied";
+      result.className = "denied";
+    }
+  }
+</script>
+
+</body>
+</html>
+
+endstream
+endobj
+14 0 obj
+<<
+/EmbeddedFiles 15 0 R
+>>
+endobj
+15 0 obj
+<<
+/Names [ (zomato\137admin\137login\056html) <<
+/Type /Filespec
+/F (zomato\137admin\137login\056html)
+/EF <<
+/F 13 0 R
+>>
+>> ]
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000193 00000 n 
+0000000382 00000 n 
+0000001665 00000 n 
+0000001738 00000 n 
+0000001845 00000 n 
+0000001957 00000 n 
+0000002062 00000 n 
+0000002173 00000 n 
+0000002251 00000 n 
+0000002273 00000 n 
+0000004501 00000 n 
+0000004545 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+4693
+%%EOF
