@@ -1,0 +1,5 @@
+DNS Windows server theory
+DHCP in Windows Server Theory
+File Server Theory
+Print Server Role Theory
+Weekly review and Practice 
